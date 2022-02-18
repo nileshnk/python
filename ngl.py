@@ -71,7 +71,7 @@ for i in range(0, n):
 
 #print(val)
 for i in range(0, n):
-	print(int(val[i])+"ok")
+	print(str(val[i])+"ok")
 
 
 printNGE(val)
